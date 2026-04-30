@@ -1,0 +1,15 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{\numberline {1}Introdução}{1}{section.1}%
+\contentsline {section}{\numberline {2}O que são Data Spaces?}{1}{section.2}%
+\contentsline {section}{\numberline {3}O que são Smart Cities?}{1}{section.3}%
+\contentsline {section}{\numberline {4}Objetivos}{1}{section.4}%
+\contentsline {section}{\numberline {5}Metodologia}{1}{section.5}%
+\contentsline {section}{\numberline {6}Motivações}{1}{section.6}%
+\contentsline {section}{\numberline {7}Analise}{1}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Frameworks de Referência}{1}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Lacunas e Riscos}{1}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Ameaças e Desafios}{1}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Propostas de Mitigação}{1}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Soluções Tecnológicas}{1}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Mapeamento ISO 27002}{1}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Conclusões e Trabalhos Futuros}{1}{section.9}%
