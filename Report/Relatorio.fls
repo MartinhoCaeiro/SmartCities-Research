@@ -391,11 +391,14 @@ INPUT .\Relatorio.lof
 INPUT .\Relatorio.lof
 INPUT Relatorio.lof
 OUTPUT Relatorio.lof
+INPUT C:\Users\Marti\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT Relatorio.aux
 INPUT .\Relatorio.out
 INPUT .\Relatorio.out
 INPUT Relatorio.run.xml
 OUTPUT Relatorio.run.xml
+INPUT C:\Users\Marti\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Marti\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Marti\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\Marti\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
 INPUT C:\Users\Marti\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk

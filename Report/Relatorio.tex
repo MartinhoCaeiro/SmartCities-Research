@@ -134,24 +134,24 @@
 % Abstract
 \section*{\LARGE\textbf{\textit{Resumo}}}
 
-Lore ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Este relatório tem como objetivo avaliar a segurança e soberania de dados em smart cities, com foco na implementação de data spaces. A análise é baseada nos frameworks europeus GAIA-X e FIWARE, identificando lacunas, riscos e propondo soluções de mitigação para garantir a proteção dos dados e a confiança dos cidadãos.
 
 \vspace{1cm}
 % Keywords
-\textbf{Keywords:} Lore ipsum dolor sit amet, consectetur adipiscing elit.
+\textbf{Keywords:} Segurança de Dados, Soberania de Dados, Smart Cities, Data Spaces, GAIA-X, FIWARE.
 \newpage
 %--------------------------------------------------------------------------------------------------------------------------------------
 
 \section*{\LARGE\textbf{\textit{Abstract}}}
 
-Lore ipsum dolor sit amet, consectetur adipiscing elit.
+This report aims to evaluate data security and sovereignty in smart cities, focusing on the implementation of data spaces. The analysis is based on the European frameworks GAIA-X and FIWARE, identifying gaps, risks, and proposing mitigation solutions to ensure data protection and citizen trust.
 
 
 
 \vspace{1cm}
 % Keywords
-\textbf{Keywords:} Lore ipsum dolor sit amet, consectetur adipiscing elit.
+\textbf{Keywords:} Data Security, Data Sovereignty, Smart Cities, Data Spaces, GAIA-X, FIWARE.
+
 \renewcommand{\contentsname}{Índice}       % Título do sumário
 \renewcommand{\listfigurename}{Índice de Figuras} % Título da lista de figuras
 
@@ -166,34 +166,69 @@ Lore ipsum dolor sit amet, consectetur adipiscing elit.
 \pagenumbering{arabic}
 
 \section{Introdução}\label{introducao}
+Nesta secção, introduziremos os conceitos de Data Spaces e Smart Cities, explicando o que são e como se interligam.
 
-\section{O que são Data Spaces?}\label{dataspaces}
+\subsection{O que são Data Spaces?}\label{dataspaces}
+Data Spaces (ou espaços de dados) são ecossistemas descentralizados e federados que permitem a partilha segura e soberana de dados entre diferentes organizações. Diferente da centralização tradicional, os participantes mantêm o controlo sobre os seus dados, definindo regras de acesso e uso, permitindo a interoperabilidade e a criação de valor conjunto com base em padrões comuns. 
 
-\section{O que são Smart Cities?}\label{smartcities}
+\subsection{O que são Smart Cities?}\label{smartcities}
+Smart cities (cidades inteligentes) são áreas urbanas que utilizam tecnologias de informação e comunicação (TIC), dados e soluções digitais para melhorar a eficiência dos serviços, reduzir o consumo de recursos e elevar a qualidade de vida dos habitantes. Elas integram infraestruturas (energia, tráfego, resíduos) para se tornarem mais sustentáveis, interativas e focadas no cidadão. 
 
+\subsection{Como se interligam os Data Spaces e as Smart Cities?}\label{interligacao}
+Os data spaces e as smart cities interligam-se ao fornecer uma estrutura segura e padronizada para partilhar dados entre diferentes setores urbanos, como mobilidade, energia e habitação. Esta interoperabilidade permite a gestão inteligente de recursos, garante a soberania dos dados e fomenta a inovação, permitindo o uso de dados de múltiplas fontes.
+
+%----------------------------------------------------------------------------------------------------------------------------------------
+\newpage
 \section{Objetivos}\label{objetivos}
+Pretendemos avaliar como as Smart Cities lidam com os Datas Spaces, especificamente quando se trata de segurança e soberania de dados no espaço europeu, identificando lacunas, riscos e propondo soluções de mitigação.
 
 \section{Metodologia}\label{metodologia}
+A avaliação é baseada nos frameworks europeus GAIA-X e FIWARE.
 
 \section{Motivações}\label{motivacoes}
+As Smart Cities, cujas quais são mais a cada ano que passa, dependem cada vez mais dos dados para otimizar serviços e melhorar a qualidade de vida. No entanto, a partilha de dados entre diferentes entidades levanta preocupações sobre segurança e soberania, tornando essencial avaliar como os data spaces estão a ser implementados e protegidos.
 
+%----------------------------------------------------------------------------------------------------------------------------------------
+\newpage
 \section{Analise}\label{analise}
+Nesta secção, analisaremos a implementação dos data spaces em smart cities, focando-nos na segurança e soberania dos dados.
 
 \subsection{Frameworks de Referência}\label{frameworks}
+Primeiramente temos que olhar para o Data Governance Act, o qual é uma legislação da União Europeia, que entrou em vigor desde setembro de 2023, que cria um quadro seguro e ético para aumentar a partilha de dados entre setores e países. O seu principal objetivo é fomentar a confiança na troca de dados pessoais e não pessoais, impulsionando a economia de dados, a inovação e a criação de espaços europeus de dados. Este cria um precedente para os frameworks de referência, os quais são o GAIA-X e o FIWARE.
+
+Estas são iniciativas europeias focadas em criar um ecossistema digital seguro, soberano e interoperável, facilitando a partilha de dados e o uso de infraestruturas em nuvem (cloud) sem depender de grandes fornecedores monopolistas. Enquanto o Gaia-X define as normas e regras de confiança, o FIWARE fornece a tecnologia de código aberto para implementar essas trocas de dados. 
+
+Esta independencia é crucial para garantir a soberania dos dados, permitindo que as organizações europeias controlem os seus dados e evitem a dependência de fornecedores externos, promovendo a inovação, a competitividade no mercado digital e tambem a facilidade de otimização de serviços.
 
 \subsection{Lacunas e Riscos}\label{lacunaseriscos}
+Apesar dos avanços, existem lacunas e riscos, tais como a falta de interoperabilidade entre protocolos de IoT, gestão de permissões em tempo real e fragilidades na autenticação federada.
+Tambem pode ocorrer manipulação de dados de sensores (impacto no tráfego), fugas de PII (Informação Pessoal Identificável) e ataques de Ransomware em infraestruturas críticas urbanas.
 
 \subsection{Ameaças e Desafios}\label{ameaçasedesafios}
+As ameaças incluem spoofing de dispositivos IoT, ataques de negação de serviço (DDoS) aos conectores do espaço de dados e ameaças internas (insider threats).
 
+Os desafios envolvem a escalabilidade da segurança para milhões de dispositivos e a complexidade jurídica da partilha de dados entre entidades públicas e privadas.
+%----------------------------------------------------------------------------------------------------------------------------------------
+\newpage
 \section{Propostas de Mitigação}\label{propostas}
+Nesta secção, apresentaremos propostas de mitigação para os riscos e desafios identificados na secção anterior.
 
 \subsection{Soluções Tecnológicas}\label{solucoes}
+Pode se dar uso a Blockchain para imutabilidade de logs, Identidades Descentralizadas (SSI) e Usage Control (UCON).
 
 \subsection{Mapeamento ISO 27002}\label{iso27002}
-
+\begin{itemize}
+    \item Controlo 5.15 (Segregação de Acesso): Implementar RBAC e ABAC rigorosos.
+    \item Controlo 8.16 (Monitorização): Sistemas de deteção de intrusão específicos para fluxos de dados FIWARE.
+    \item Controlo 8.10 (Eliminação de Informação): Garantir o "direito ao esquecimento" dentro do Data Space.
+\end{itemize}
 
 %---------------------------------------------------------------------------------------------------------------------------
+\newpage
 \section{Conclusões e Trabalhos Futuros}\label{conclusoes}
+Concluímos que, embora os data spaces sejam essenciais para o desenvolvimento de smart cities, existem ainda lacunas significativas em segurança e soberania de dados. As propostas de mitigação apresentadas visam fortalecer a confiança e a proteção dos dados, mas é necessário um esforço contínuo para adaptar-se às ameaças emergentes e garantir a sustentabilidade dos ecossistemas urbanos inteligentes.
+
+Como trabalhos futuros, sugerimos a investigação de novas tecnologias de segurança, como a inteligência artificial para deteção de anomalias, e a análise de casos de estudo reais para validar as propostas de mitigação, mas de modo a que a computação preserve a privacidade (Privacy-Preserving Computation)
 
 
 \newpage 
