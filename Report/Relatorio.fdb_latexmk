@@ -1,11 +1,12 @@
 # Fdb version 4
-["biber Relatorio"] 1777571368.9242 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1777574016.67887 0
-  "Relatorio.bcf" 1777574015 133730 f9400eb699cd72b44644bc447da43b21 "pdflatex"
+["biber Relatorio"] 1777580781.27747 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1777581669.99666 0
+  "Recursos/referencias.bib" 1777575477 2428 e8a58bb5134588f55dcc9e9ebd39c238 ""
+  "Relatorio.bcf" 1777581669 134226 058840ceff8d27d2c5ce589592f14feb "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1777574011.82914 "c:/Users/Marti/Documents/SmartCities-Research/Report/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1777574016.68061 0
+["pdflatex"] 1777581667.4006 "c:/Users/Marti/Documents/SmartCities-Research/Report/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1777581669.99758 0
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1770385093 126059 07a841c7d29e1df5b4a8b1eac1f2dc82 ""
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1728.pk" 1731243685 71788 1e02f162203728df16030782559135b3 ""
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1730970230 25420 7f407e2bc8380997d24e59de81372356 ""
@@ -14,6 +15,7 @@
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk" 1730970243 72288 ef23a7b10de3db13b37fc63bfab6b6ec ""
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1730970225 23808 355ec6d6cf4f121ed1c035616578ed7b ""
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1730970239 28440 35295194afbbae534bde256f45956426 ""
+  "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1730970220 31892 b9069c5f9406dbef02b30a2d95d5159c ""
   "C:/Users/Marti/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1731243681 11548 b5caf6eb2a1619f9510037dcf6ee99e1 ""
   "C:/Users/Marti/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730970145 11948315 99c4d2326d981d6683364617ad651fdf ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbi1728.tfm" 993061912 2896 9cb37f107d422e25c899cb210f19c053 ""
@@ -26,6 +28,7 @@
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm2488.tfm" 993062132 3184 93c67f4c0884ba9e31b75d469978f63b ""
+  "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1000.tfm" 993062320 2840 5606e1a681c23005308de9d61c09a8ff ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -204,14 +207,21 @@
   "C:/Users/Marti/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Recursos/IPBejaESTIG.jpg" 1773929650 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/LOGO_IPB.png" 1773929650 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
-  "Relatorio.aux" 1777574015 3310 9b529298fc124a2ae0e29fca9eaff6c2 "pdflatex"
-  "Relatorio.bbl" 1777571374 486 76d65a242ec496c9b4361af646ff12cb "biber Relatorio"
-  "Relatorio.lof" 1777574015 33 e37f84d12b50aa32dade73d7d1c52b61 "pdflatex"
-  "Relatorio.out" 1777574015 2373 438f135ab4c2088b16c6b55c70db5040 "pdflatex"
-  "Relatorio.run.xml" 1777574015 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1777574007 11992 e37a7defc6e4fc8b80e134359d600dc9 ""
-  "Relatorio.toc" 1777574015 1262 159d38be250db79bf0aeb625719e7080 "pdflatex"
-  "c:/Users/Marti/Documents/SmartCities-Research/Report/Relatorio.tex" 1777574007 11992 e37a7defc6e4fc8b80e134359d600dc9 ""
+  "Recursos/dataspace.png" 1777576272 1328276 a87005d6c45fd197bbee3f3e0dd81ff0 ""
+  "Recursos/dga.png" 1777576625 676966 baf10fa1e4f4f3df3becba99bf88539c ""
+  "Recursos/fiware.png" 1777576571 35979 5fd2ec85dd36134a72dc9fadddafef66 ""
+  "Recursos/gaiax.png" 1777576557 61434 4ce3e2db7eac547c09171bd1cbfc109d ""
+  "Recursos/iso.png" 1777576703 294965 8930083e53a35f7fd0938b8f8c1c18b3 ""
+  "Recursos/relation.png" 1777576423 958794 e0f22c5df63186832d1ec47b7b97103a ""
+  "Recursos/smartcities.png" 1777576346 652767 a1f6f78983a648101021458b05f6b656 ""
+  "Relatorio.aux" 1777581669 6984 bb26c52d84d3f0331edea7b5a63c60f7 "pdflatex"
+  "Relatorio.bbl" 1777580787 22301 ea8c5b1a139769e93c987d5fd3a296b5 "biber Relatorio"
+  "Relatorio.lof" 1777581669 826 bda8f17d806a65213eea7236438b177b "pdflatex"
+  "Relatorio.out" 1777581669 2577 d23dfa67754d97abb6e61d047778023c "pdflatex"
+  "Relatorio.run.xml" 1777581669 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
+  "Relatorio.tex" 1777581666 18169 9d7525fb925a867926f3336b1cc540b5 ""
+  "Relatorio.toc" 1777581669 1391 a02d52e9113d928cd2e8e313c128da8c "pdflatex"
+  "c:/Users/Marti/Documents/SmartCities-Research/Report/Relatorio.tex" 1777581666 18169 9d7525fb925a867926f3336b1cc540b5 ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"
