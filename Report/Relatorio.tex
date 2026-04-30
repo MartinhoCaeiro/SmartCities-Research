@@ -262,37 +262,43 @@ O seu objetivo é facilitar a criação de espaços europeus de dados, asseguran
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=10cm]{Recursos/dga.png}
+    \includegraphics[width=12cm]{Recursos/dga.png}
     \caption{Data Governance Act - Regulamento Europeu}
     \label{fig:dga}
 \end{figure}
-
-Neste contexto surgem iniciativas como o GAIA-X e o FIWARE:
-
+\newpage
+Neste contexto surgem iniciativas como o GAIA-X e o FIWARE, que se forem implementados 
+de forma integrada, podem criar um ecossistema de dados robusto e seguro para as 
+Smart Cities europeias.:
+\subsubsection{GAIA-X Framework}
+O GAIA-X framework define normas, políticas e mecanismos de confiança para a partilha de dados, ou seja, este 
+será o "porteiro/guardião" dos dados seja fisicamente ou logicamente, garantindo que os dados partilhados 
+entre os participantes do ecossistema sejam tratados de forma segura, transparente e em conformidade com 
+as regulamentações europeias.
 \begin{figure}[h!]
     \centering
-    \begin{minipage}[b]{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{Recursos/gaiax.png}
-        \caption{GAIA-X Framework}
-        \label{fig:gaiax}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[b]{0.45\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{Recursos/fiware.png}
-        \caption{FIWARE Platform}
-        \label{fig:fiware}
-    \end{minipage}
+    \includegraphics[width=0.8\textwidth]{Recursos/gaiax.png}
+    \caption{GAIA-X Framework}
+    \label{fig:gaiax}
 \end{figure}
 
-\begin{itemize}
-    \item \textbf{GAIA-X:} define normas, políticas e mecanismos de confiança para a partilha de dados;
-    \item \textbf{FIWARE:} fornece componentes tecnológicos open-source para implementar soluções baseadas em dados.
-\end{itemize}
-
 \newpage
-A combinação destes frameworks permite criar um ecossistema digital independente, interoperável e seguro, reduzindo a dependência de grandes fornecedores tecnológicos e promovendo a soberania digital europeia.
+
+\subsubsection{FIWARE Plataform}
+O FIWARE Plataform fornece componentes tecnológicos open-source para implementar soluções baseadas em dados, 
+permitindo assim padronizar a forma como os dados são recolhidos, processados e partilhados em Smart Cities. 
+O FIWARE pode ser visto como o "motor" que alimenta as aplicações e serviços urbanos, utilizando os dados 
+geridos pelo GAIA-X para criar soluções inovadoras e eficientes.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Recursos/fiware.png}
+    \caption{FIWARE Platform}
+    \label{fig:fiware}
+\end{figure}
+
+
+Ao combinar estes frameworks, é possível criar um ecossistema digital independente, interoperável e seguro, reduzindo a 
+dependência de grandes fornecedores tecnológicos e promovendo a soberania digital europeia.
 
 \subsection{Arquitetura de Data Spaces em Smart Cities}
 A arquitetura de Data Spaces em Smart Cities baseia-se numa abordagem federada composta por vários elementos:
@@ -302,7 +308,7 @@ A arquitetura de Data Spaces em Smart Cities baseia-se numa abordagem federada c
     \item \textbf{Data Consumers:} aplicações e serviços que utilizam os dados;
     \item \textbf{Data Intermediaries:} plataformas que facilitam a partilha de dados.
 \end{itemize}
-
+\newpage
 Um componente central é o \textit{Data Space Connector}, responsável por:
 \begin{itemize}
     \item Aplicar políticas de uso de dados;
@@ -313,7 +319,7 @@ Um componente central é o \textit{Data Space Connector}, responsável por:
 
 Esta arquitetura reduz a centralização e melhora a resiliência do sistema.
 
-\newpage
+
 \subsection{Lacunas e Riscos}\label{lacunaseriscos}
 Apesar dos avanços tecnológicos, existem várias lacunas e riscos:
 
@@ -332,7 +338,7 @@ Outros riscos incluem:
     \item Manipulação de sensores urbanos;
     \item Ataques de ransomware a infraestruturas críticas.
 \end{itemize}
-
+\newpage
 \subsection{Ameaças e Desafios}\label{ameaçasedesafios}
 As principais ameaças incluem:
 \begin{itemize}
@@ -351,7 +357,6 @@ Os desafios principais envolvem:
 \end{itemize}
 
 %----------------------------------------------------------------------------------------------------------------------------------------
-\newpage
 \section{Propostas de Mitigação}\label{propostas}
 
 \subsection{Soluções Tecnológicas}\label{solucoes}
@@ -366,21 +371,25 @@ Para mitigar os riscos identificados, podem ser adotadas várias soluções:
 \end{itemize}
 
 Estas tecnologias aumentam a segurança, transparência e confiança nos ecossistemas de dados.
-
+\newpage
 \subsection{Mapeamento ISO 27002}\label{iso27002}
-\begin{figure}[h!]
+Os riscos identificados podem ser mapeados para controlos da norma ISO 27002:
+\begin{figure}[h]
     \centering
     \includegraphics[width=9cm]{Recursos/iso.png}
     \caption{ISO 27002 - Norma de Segurança da Informação}
     \label{fig:iso}
 \end{figure}
 
-Os riscos identificados podem ser mapeados para controlos da norma ISO 27002:
-
 \begin{itemize}
-    \item \textbf{Controlo 5.15:} Implementação de RBAC e ABAC;
+    \item \textbf{Controlo 5.16:} Gestão de Identidades;
+    \item \textbf{Controlo 5.17 e 5.18:} Implementação de RBAC e ABAC (Autenticação e 
+    Direito de Acesso de Privilégio Mínimo);
+    \item \textbf{Controlo 5.23:} Segurança da Informação para Serviços na Nuvem;
+    \item \textbf{Controlo 8.10:} Eliminação segura de dados (direito ao esquecimento);
+    \item \textbf{Controlo 8.14:} Redundância de Recursos de Processamento;
     \item \textbf{Controlo 8.16:} Monitorização e deteção de intrusões;
-    \item \textbf{Controlo 8.10:} Eliminação segura de dados (direito ao esquecimento).
+    \item \textbf{Controlo 8.22:} Segregação de Redes.
 \end{itemize}
 
 %---------------------------------------------------------------------------------------------------------------------------

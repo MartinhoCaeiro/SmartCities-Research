@@ -16,5 +16,502 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{dataspaces}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf164c51829421a3de26add8a533664e}{%
+           family={Aquarela\bibnamedelima Analytics},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf164c51829421a3de26add8a533664e}
+      \strng{fullhash}{cf164c51829421a3de26add8a533664e}
+      \strng{fullhashraw}{cf164c51829421a3de26add8a533664e}
+      \strng{bibnamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorbibnamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authornamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorfullhash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorfullhashraw}{cf164c51829421a3de26add8a533664e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre Data Spaces}
+      \field{title}{Data Spaces: O Futuro da Organização de Dados na Era Digital}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aquare.la/data-spaces-o-futuro-da-organizacao-de-dados-na-era-digital/
+      \endverb
+      \verb{url}
+      \verb https://aquare.la/data-spaces-o-futuro-da-organizacao-de-dados-na-era-digital/
+      \endverb
+    \endentry
+    \entry{dga}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93e0d81e67003f27d8d14cea61f80c73}{%
+           family={Comissão\bibnamedelima Europeia},
+           familyi={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{fullhash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{fullhashraw}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{bibnamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorbibnamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authornamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorfullhash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorfullhashraw}{93e0d81e67003f27d8d14cea61f80c73}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o Data Governance Act}
+      \field{title}{Data Governance Act Explained}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://digital-strategy.ec.europa.eu/pt/policies/data-governance-act-explained
+      \endverb
+      \verb{url}
+      \verb https://digital-strategy.ec.europa.eu/pt/policies/data-governance-act-explained
+      \endverb
+    \endentry
+    \entry{smartcities}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=590d53d7397b9937b6be9d4935612757}{%
+           family={EDP},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{fullhash}{590d53d7397b9937b6be9d4935612757}
+      \strng{fullhashraw}{590d53d7397b9937b6be9d4935612757}
+      \strng{bibnamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorbibnamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authornamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorfullhash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorfullhashraw}{590d53d7397b9937b6be9d4935612757}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre Smart Cities}
+      \field{title}{Smart Cities: As Cidades Sustentáveis do Futuro}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edp.pt/particulares/content-hub/smart-cities-as-cidades-sustentaveis-do-futuro/
+      \endverb
+      \verb{url}
+      \verb https://www.edp.pt/particulares/content-hub/smart-cities-as-cidades-sustentaveis-do-futuro/
+      \endverb
+    \endentry
+    \entry{fiware}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fcb6323449afaf3daae06ca9c3dc4f9e}{%
+           family={FIWARE},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{fullhash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{fullhashraw}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{bibnamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorbibnamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authornamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorfullhash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorfullhashraw}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o FIWARE}
+      \field{title}{FIWARE: Enabling the Development of Smart Applications}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fiware.org/
+      \endverb
+      \verb{url}
+      \verb https://www.fiware.org/
+      \endverb
+    \endentry
+    \entry{gaiax}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2938fdd6d0657a093d981c58d58e8dcd}{%
+           family={GAIA-X},
+           familyi={G\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{fullhash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{fullhashraw}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{bibnamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorbibnamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authornamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorfullhash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorfullhashraw}{2938fdd6d0657a093d981c58d58e8dcd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o GAIA-X}
+      \field{title}{GAIA-X: A European Initiative for a Secure and Sovereign Digital Ecosystem}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gaia-x.eu/about/
+      \endverb
+      \verb{url}
+      \verb https://gaia-x.eu/about/
+      \endverb
+    \endentry
+    \entry{ligação}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5810f2bda68b89bbd6fb7eb2238af477}{%
+           family={Living-in.EU},
+           familyi={L\bibinithyphendelim i\bibinitperiod}}}%
+      }
+      \strng{namehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{fullhash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{fullhashraw}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{bibnamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorbibnamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authornamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorfullhash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorfullhashraw}{5810f2bda68b89bbd6fb7eb2238af477}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre a ligação entre Data Spaces e Smart Cities}
+      \field{title}{Data Spaces for Smart and Sustainable Cities and Communities}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://living-in.eu/partnerships/data-spaces-smart-and-sustainable-cities-and-communities
+      \endverb
+      \verb{url}
+      \verb https://living-in.eu/partnerships/data-spaces-smart-and-sustainable-cities-and-communities
+      \endverb
+    \endentry
+    \entry{github}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=caed1ca672183e6b85178471aad6ea6c}{%
+           family={Martinho\bibnamedelima Caeiro\bibnamedelima \&\bibnamedelima Paulo\bibnamedelima Abade},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{fullhash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{fullhashraw}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{bibnamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorbibnamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authornamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorfullhash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorfullhashraw}{caed1ca672183e6b85178471aad6ea6c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Repositório do trabalho no GitHub}
+      \field{title}{Repositório do Trabalho sobre Data Spaces e Smart Cities}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/MartinhoCaeiro/SmartCities-Research
+      \endverb
+      \verb{url}
+      \verb https://github.com/MartinhoCaeiro/SmartCities-Research
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{dataspaces}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf164c51829421a3de26add8a533664e}{%
+           family={Aquarela\bibnamedelima Analytics},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf164c51829421a3de26add8a533664e}
+      \strng{fullhash}{cf164c51829421a3de26add8a533664e}
+      \strng{fullhashraw}{cf164c51829421a3de26add8a533664e}
+      \strng{bibnamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorbibnamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authornamehash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorfullhash}{cf164c51829421a3de26add8a533664e}
+      \strng{authorfullhashraw}{cf164c51829421a3de26add8a533664e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre Data Spaces}
+      \field{title}{Data Spaces: O Futuro da Organização de Dados na Era Digital}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://aquare.la/data-spaces-o-futuro-da-organizacao-de-dados-na-era-digital/
+      \endverb
+      \verb{url}
+      \verb https://aquare.la/data-spaces-o-futuro-da-organizacao-de-dados-na-era-digital/
+      \endverb
+    \endentry
+    \entry{dga}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93e0d81e67003f27d8d14cea61f80c73}{%
+           family={Comissão\bibnamedelima Europeia},
+           familyi={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{fullhash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{fullhashraw}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{bibnamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorbibnamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authornamehash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorfullhash}{93e0d81e67003f27d8d14cea61f80c73}
+      \strng{authorfullhashraw}{93e0d81e67003f27d8d14cea61f80c73}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o Data Governance Act}
+      \field{title}{Data Governance Act Explained}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://digital-strategy.ec.europa.eu/pt/policies/data-governance-act-explained
+      \endverb
+      \verb{url}
+      \verb https://digital-strategy.ec.europa.eu/pt/policies/data-governance-act-explained
+      \endverb
+    \endentry
+    \entry{smartcities}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=590d53d7397b9937b6be9d4935612757}{%
+           family={EDP},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{fullhash}{590d53d7397b9937b6be9d4935612757}
+      \strng{fullhashraw}{590d53d7397b9937b6be9d4935612757}
+      \strng{bibnamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorbibnamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authornamehash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorfullhash}{590d53d7397b9937b6be9d4935612757}
+      \strng{authorfullhashraw}{590d53d7397b9937b6be9d4935612757}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre Smart Cities}
+      \field{title}{Smart Cities: As Cidades Sustentáveis do Futuro}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.edp.pt/particulares/content-hub/smart-cities-as-cidades-sustentaveis-do-futuro/
+      \endverb
+      \verb{url}
+      \verb https://www.edp.pt/particulares/content-hub/smart-cities-as-cidades-sustentaveis-do-futuro/
+      \endverb
+    \endentry
+    \entry{fiware}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fcb6323449afaf3daae06ca9c3dc4f9e}{%
+           family={FIWARE},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{fullhash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{fullhashraw}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{bibnamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorbibnamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authornamehash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorfullhash}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \strng{authorfullhashraw}{fcb6323449afaf3daae06ca9c3dc4f9e}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o FIWARE}
+      \field{title}{FIWARE: Enabling the Development of Smart Applications}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fiware.org/
+      \endverb
+      \verb{url}
+      \verb https://www.fiware.org/
+      \endverb
+    \endentry
+    \entry{gaiax}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2938fdd6d0657a093d981c58d58e8dcd}{%
+           family={GAIA-X},
+           familyi={G\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \strng{namehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{fullhash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{fullhashraw}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{bibnamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorbibnamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authornamehash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorfullhash}{2938fdd6d0657a093d981c58d58e8dcd}
+      \strng{authorfullhashraw}{2938fdd6d0657a093d981c58d58e8dcd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre o GAIA-X}
+      \field{title}{GAIA-X: A European Initiative for a Secure and Sovereign Digital Ecosystem}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://gaia-x.eu/about/
+      \endverb
+      \verb{url}
+      \verb https://gaia-x.eu/about/
+      \endverb
+    \endentry
+    \entry{ligação}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5810f2bda68b89bbd6fb7eb2238af477}{%
+           family={Living-in.EU},
+           familyi={L\bibinithyphendelim i\bibinitperiod}}}%
+      }
+      \strng{namehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{fullhash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{fullhashraw}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{bibnamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorbibnamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authornamehash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorfullhash}{5810f2bda68b89bbd6fb7eb2238af477}
+      \strng{authorfullhashraw}{5810f2bda68b89bbd6fb7eb2238af477}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artigo sobre a ligação entre Data Spaces e Smart Cities}
+      \field{title}{Data Spaces for Smart and Sustainable Cities and Communities}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://living-in.eu/partnerships/data-spaces-smart-and-sustainable-cities-and-communities
+      \endverb
+      \verb{url}
+      \verb https://living-in.eu/partnerships/data-spaces-smart-and-sustainable-cities-and-communities
+      \endverb
+    \endentry
+    \entry{github}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=caed1ca672183e6b85178471aad6ea6c}{%
+           family={Martinho\bibnamedelima Caeiro\bibnamedelima \&\bibnamedelima Paulo\bibnamedelima Abade},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{fullhash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{fullhashraw}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{bibnamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorbibnamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authornamehash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorfullhash}{caed1ca672183e6b85178471aad6ea6c}
+      \strng{authorfullhashraw}{caed1ca672183e6b85178471aad6ea6c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Repositório do trabalho no GitHub}
+      \field{title}{Repositório do Trabalho sobre Data Spaces e Smart Cities}
+      \field{urlday}{1}
+      \field{urlmonth}{5}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/MartinhoCaeiro/SmartCities-Research
+      \endverb
+      \verb{url}
+      \verb https://github.com/MartinhoCaeiro/SmartCities-Research
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
