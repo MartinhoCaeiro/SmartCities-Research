@@ -3078,6 +3078,7 @@
     <bcf:citekey order="6" intorder="1">gaiax</bcf:citekey>
     <bcf:citekey order="7" intorder="1">fiware</bcf:citekey>
     <bcf:citekey order="8" intorder="1">dga</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">iso27002</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

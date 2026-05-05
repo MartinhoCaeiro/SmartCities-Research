@@ -18,3 +18,4 @@
 \contentsline {subsection}{\numberline {6.2}Mapeamento ISO 27002}{10}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Conclusões e Trabalhos Futuros}{11}{section.7}%
 \contentsline {section}{Bibliografia}{12}{section.7}%
+\contentsline {section}{\numberline {8}Política de IA}{12}{section.8}%
